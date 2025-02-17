@@ -1,0 +1,44 @@
+C:\Users\foist\source\repos\Project4-MP3TrackerWithFiles\Project4-MP3TrackerWithFiles\bin\Debug\net6.0\Project4-MP3TrackerWithFiles.exe
+C:\Users\foist\source\repos\Project4-MP3TrackerWithFiles\Project4-MP3TrackerWithFiles\bin\Debug\net6.0\Project4-MP3TrackerWithFiles.deps.json
+C:\Users\foist\source\repos\Project4-MP3TrackerWithFiles\Project4-MP3TrackerWithFiles\bin\Debug\net6.0\Project4-MP3TrackerWithFiles.runtimeconfig.json
+C:\Users\foist\source\repos\Project4-MP3TrackerWithFiles\Project4-MP3TrackerWithFiles\bin\Debug\net6.0\Project4-MP3TrackerWithFiles.dll
+C:\Users\foist\source\repos\Project4-MP3TrackerWithFiles\Project4-MP3TrackerWithFiles\bin\Debug\net6.0\Project4-MP3TrackerWithFiles.pdb
+C:\Users\foist\source\repos\Project4-MP3TrackerWithFiles\Project4-MP3TrackerWithFiles\obj\Debug\net6.0\Project4-MP3TrackerWithFiles.csproj.AssemblyReference.cache
+C:\Users\foist\source\repos\Project4-MP3TrackerWithFiles\Project4-MP3TrackerWithFiles\obj\Debug\net6.0\Project4-MP3TrackerWithFiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\foist\source\repos\Project4-MP3TrackerWithFiles\Project4-MP3TrackerWithFiles\obj\Debug\net6.0\Project4-MP3TrackerWithFiles.AssemblyInfoInputs.cache
+C:\Users\foist\source\repos\Project4-MP3TrackerWithFiles\Project4-MP3TrackerWithFiles\obj\Debug\net6.0\Project4-MP3TrackerWithFiles.AssemblyInfo.cs
+C:\Users\foist\source\repos\Project4-MP3TrackerWithFiles\Project4-MP3TrackerWithFiles\obj\Debug\net6.0\Project4-MP3TrackerWithFiles.csproj.CoreCompileInputs.cache
+C:\Users\foist\source\repos\Project4-MP3TrackerWithFiles\Project4-MP3TrackerWithFiles\obj\Debug\net6.0\Project4-MP3TrackerWithFiles.dll
+C:\Users\foist\source\repos\Project4-MP3TrackerWithFiles\Project4-MP3TrackerWithFiles\obj\Debug\net6.0\refint\Project4-MP3TrackerWithFiles.dll
+C:\Users\foist\source\repos\Project4-MP3TrackerWithFiles\Project4-MP3TrackerWithFiles\obj\Debug\net6.0\Project4-MP3TrackerWithFiles.pdb
+C:\Users\foist\source\repos\Project4-MP3TrackerWithFiles\Project4-MP3TrackerWithFiles\obj\Debug\net6.0\Project4-MP3TrackerWithFiles.genruntimeconfig.cache
+C:\Users\foist\source\repos\Project4-MP3TrackerWithFiles\Project4-MP3TrackerWithFiles\obj\Debug\net6.0\ref\Project4-MP3TrackerWithFiles.dll
+C:\Users\foist\Desktop\CSCI-1260\Project4-MP3TrackerWithFiles\Project4-MP3TrackerWithFiles\bin\Debug\net6.0\Project4-MP3TrackerWithFiles.exe
+C:\Users\foist\Desktop\CSCI-1260\Project4-MP3TrackerWithFiles\Project4-MP3TrackerWithFiles\bin\Debug\net6.0\Project4-MP3TrackerWithFiles.deps.json
+C:\Users\foist\Desktop\CSCI-1260\Project4-MP3TrackerWithFiles\Project4-MP3TrackerWithFiles\bin\Debug\net6.0\Project4-MP3TrackerWithFiles.runtimeconfig.json
+C:\Users\foist\Desktop\CSCI-1260\Project4-MP3TrackerWithFiles\Project4-MP3TrackerWithFiles\bin\Debug\net6.0\Project4-MP3TrackerWithFiles.dll
+C:\Users\foist\Desktop\CSCI-1260\Project4-MP3TrackerWithFiles\Project4-MP3TrackerWithFiles\bin\Debug\net6.0\Project4-MP3TrackerWithFiles.pdb
+C:\Users\foist\Desktop\CSCI-1260\Project4-MP3TrackerWithFiles\Project4-MP3TrackerWithFiles\obj\Debug\net6.0\Project4-MP3TrackerWithFiles.csproj.AssemblyReference.cache
+C:\Users\foist\Desktop\CSCI-1260\Project4-MP3TrackerWithFiles\Project4-MP3TrackerWithFiles\obj\Debug\net6.0\Project4-MP3TrackerWithFiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\foist\Desktop\CSCI-1260\Project4-MP3TrackerWithFiles\Project4-MP3TrackerWithFiles\obj\Debug\net6.0\Project4-MP3TrackerWithFiles.AssemblyInfoInputs.cache
+C:\Users\foist\Desktop\CSCI-1260\Project4-MP3TrackerWithFiles\Project4-MP3TrackerWithFiles\obj\Debug\net6.0\Project4-MP3TrackerWithFiles.AssemblyInfo.cs
+C:\Users\foist\Desktop\CSCI-1260\Project4-MP3TrackerWithFiles\Project4-MP3TrackerWithFiles\obj\Debug\net6.0\Project4-MP3TrackerWithFiles.csproj.CoreCompileInputs.cache
+C:\Users\foist\Desktop\CSCI-1260\Project4-MP3TrackerWithFiles\Project4-MP3TrackerWithFiles\obj\Debug\net6.0\Project4-MP3TrackerWithFiles.dll
+C:\Users\foist\Desktop\CSCI-1260\Project4-MP3TrackerWithFiles\Project4-MP3TrackerWithFiles\obj\Debug\net6.0\refint\Project4-MP3TrackerWithFiles.dll
+C:\Users\foist\Desktop\CSCI-1260\Project4-MP3TrackerWithFiles\Project4-MP3TrackerWithFiles\obj\Debug\net6.0\Project4-MP3TrackerWithFiles.pdb
+C:\Users\foist\Desktop\CSCI-1260\Project4-MP3TrackerWithFiles\Project4-MP3TrackerWithFiles\obj\Debug\net6.0\Project4-MP3TrackerWithFiles.genruntimeconfig.cache
+C:\Users\foist\Desktop\CSCI-1260\Project4-MP3TrackerWithFiles\Project4-MP3TrackerWithFiles\obj\Debug\net6.0\ref\Project4-MP3TrackerWithFiles.dll
+C:\Users\foist\Desktop\Old ETSU\CSCI-1260\Project4-MP3TrackerWithFiles\Project4-MP3TrackerWithFiles\bin\Debug\net6.0\Project4-MP3TrackerWithFiles.exe
+C:\Users\foist\Desktop\Old ETSU\CSCI-1260\Project4-MP3TrackerWithFiles\Project4-MP3TrackerWithFiles\bin\Debug\net6.0\Project4-MP3TrackerWithFiles.deps.json
+C:\Users\foist\Desktop\Old ETSU\CSCI-1260\Project4-MP3TrackerWithFiles\Project4-MP3TrackerWithFiles\bin\Debug\net6.0\Project4-MP3TrackerWithFiles.runtimeconfig.json
+C:\Users\foist\Desktop\Old ETSU\CSCI-1260\Project4-MP3TrackerWithFiles\Project4-MP3TrackerWithFiles\bin\Debug\net6.0\Project4-MP3TrackerWithFiles.dll
+C:\Users\foist\Desktop\Old ETSU\CSCI-1260\Project4-MP3TrackerWithFiles\Project4-MP3TrackerWithFiles\bin\Debug\net6.0\Project4-MP3TrackerWithFiles.pdb
+C:\Users\foist\Desktop\Old ETSU\CSCI-1260\Project4-MP3TrackerWithFiles\Project4-MP3TrackerWithFiles\obj\Debug\net6.0\Project4-MP3TrackerWithFiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\foist\Desktop\Old ETSU\CSCI-1260\Project4-MP3TrackerWithFiles\Project4-MP3TrackerWithFiles\obj\Debug\net6.0\Project4-MP3TrackerWithFiles.AssemblyInfoInputs.cache
+C:\Users\foist\Desktop\Old ETSU\CSCI-1260\Project4-MP3TrackerWithFiles\Project4-MP3TrackerWithFiles\obj\Debug\net6.0\Project4-MP3TrackerWithFiles.AssemblyInfo.cs
+C:\Users\foist\Desktop\Old ETSU\CSCI-1260\Project4-MP3TrackerWithFiles\Project4-MP3TrackerWithFiles\obj\Debug\net6.0\Project4-MP3TrackerWithFiles.csproj.CoreCompileInputs.cache
+C:\Users\foist\Desktop\Old ETSU\CSCI-1260\Project4-MP3TrackerWithFiles\Project4-MP3TrackerWithFiles\obj\Debug\net6.0\Project4-MP3TrackerWithFiles.dll
+C:\Users\foist\Desktop\Old ETSU\CSCI-1260\Project4-MP3TrackerWithFiles\Project4-MP3TrackerWithFiles\obj\Debug\net6.0\refint\Project4-MP3TrackerWithFiles.dll
+C:\Users\foist\Desktop\Old ETSU\CSCI-1260\Project4-MP3TrackerWithFiles\Project4-MP3TrackerWithFiles\obj\Debug\net6.0\Project4-MP3TrackerWithFiles.pdb
+C:\Users\foist\Desktop\Old ETSU\CSCI-1260\Project4-MP3TrackerWithFiles\Project4-MP3TrackerWithFiles\obj\Debug\net6.0\Project4-MP3TrackerWithFiles.genruntimeconfig.cache
+C:\Users\foist\Desktop\Old ETSU\CSCI-1260\Project4-MP3TrackerWithFiles\Project4-MP3TrackerWithFiles\obj\Debug\net6.0\ref\Project4-MP3TrackerWithFiles.dll
